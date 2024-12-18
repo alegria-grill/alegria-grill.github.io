@@ -39,8 +39,8 @@ div.image {
 }
 
 a:hover {
-  background: #FFC300;
-  color: green;
+  background: #dedede;
+  color: red;
   text-transform: uppercase;
 }
 
