@@ -5,6 +5,14 @@ body {
   background-color: #fafafa;
 }
 
+main {
+  padding: 1em;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
 
 div.image {
   display: inline-block;
